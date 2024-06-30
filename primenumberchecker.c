@@ -18,5 +18,6 @@ int main(){
     else{
         printf("Your number isn't prime\n");
     }
+    system("pause");    
     return 0;
 }
